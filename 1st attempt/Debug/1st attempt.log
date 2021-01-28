@@ -1,0 +1,77 @@
+﻿  MyForm.cpp
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\MyForm.h(205,21): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\MyForm.h(206,21): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\MyForm.h(207,17): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\MyForm.h(208,17): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\MyForm.h(226,25): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\MyForm.h(227,25): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\MyForm.h(228,21): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\MyForm.h(229,21): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\MyForm.h(243,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\MyForm.h(244,27): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\MyForm.h(245,27): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\MyForm.h(246,23): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\MyForm.h(247,23): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\MyForm.h(257,42): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\MyForm.h(257,32): warning C4244: аргумент: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=double
+          ]
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\MyForm.h(309,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\MyForm.h(357,5): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\MyForm.cpp(7,34): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  1st attempt.vcxproj -> C:\Users\Andrey Kurganskij\source\repos\1st attempt\Debug\1st attempt.exe

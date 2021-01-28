@@ -1,0 +1,3 @@
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\x64\Debug\1st attempt.vcxprojAssemblyReference.cache
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\x64\Debug\My1stattempt.MyForm.resources
+C:\Users\Andrey Kurganskij\source\repos\1st attempt\1st attempt\x64\Debug\1st attempt.vcxproj.GenerateResource.cache
