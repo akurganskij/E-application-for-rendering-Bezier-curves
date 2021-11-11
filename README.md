@@ -1,2 +1,2 @@
 # E-application-for-rendering-Bezier-curves
-To run this application rur installer
+To run this application rur installer NewProject.exe
